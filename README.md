@@ -1,7 +1,7 @@
 # Solihu_Mariyam_Omotinuola_Data-Analysis_Portfolio
 ## Overview
 
-This portfolio showcases my data analysis work across four real-world domains — healthcare, sales, education, and laboratory science. Each section covers the full process: cleaning raw records, structuring data, identifying trends, and presenting insights in a clear, decision-ready format.
+This portfolio showcases my data analysis work across four real-world domains, healthcare, sales, education, and laboratory science. Each section covers the full process: cleaning raw records, structuring data, identifying trends, and presenting insights in a clear, decision-ready format.
 
 👉 [View the Live Portfolio](https://maryam5890.github.io/Solihu_Mariyam_Omotinuola_Data-Analysis_Portfolio/)
 
